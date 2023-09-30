@@ -11,8 +11,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import com.maurojramod.workshopmongodb.dto.AuthorDTO;
 import com.maurojramod.workshopmongodb.dto.CommentDTO;
 
-
-
 @Document
 public class Post implements Serializable {
 	private static final long serialVersionUID = 1L;
@@ -26,8 +24,6 @@ public class Post implements Serializable {
 	
 	private List<CommentDTO> comments = new ArrayList<>();
 	
-	
-
 	public Post() {
 	}
 
@@ -71,7 +67,7 @@ public class Post implements Serializable {
 	public void setBody(String body) {
 		this.body = body;
 	}
-	
+
 	public AuthorDTO getAuthor() {
 		return author;
 	}

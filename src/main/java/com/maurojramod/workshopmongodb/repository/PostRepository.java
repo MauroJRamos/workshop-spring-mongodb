@@ -10,9 +10,8 @@ import org.springframework.stereotype.Repository;
 import com.maurojramod.workshopmongodb.domain.Post;
 
 @Repository
-public interface PostRepository extends MongoRepository<Post, String>{
-	
-	//expressão rex do mongodb para consulta, ?0 éo primeiro atributo que aparece
+public interface PostRepository extends MongoRepository<Post, String> {
+
 	@Query("{ 'title': { $regex: ?0, $options: 'i' } }")
 	List<Post> searchTitle(String text);
 	
