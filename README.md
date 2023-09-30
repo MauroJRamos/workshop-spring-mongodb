@@ -15,6 +15,6 @@
 * Referências
 * Realizar consultas com Spring Data e MongoRepository
 
-# Classes:
+# Diagrama de Classes:
 
 ![image](https://github.com/MauroJRamos/workshop-spring-mongodb/assets/82981926/11cb2ec1-d33b-419a-a861-e95e71e0bbb2)
