@@ -27,43 +27,43 @@
 "name": "Maria Brown",
 "email": "maria@gmail.com",
 "posts": [
-{
-"date": "2018-03-21",
-"title": "Partiu viagem",
-"body": "Vou viajar para São Paulo. Abraços!",
-"comments": [
-{
-"text": "Boa viagem mano!",
-"date": "2018-03-21",
-"author": {
-"id": "1013",
-"name": "Alex Green"
-}
-},
-{
-"text": "Aproveite!",
-"date": "2018-03-22",
-"author": {
-"id": "1027",
-"name": "Bob Grey"
-}
-}
-]
-},
-{
-"date": "2018-03-23",
-"title": "Bom dia",
-"body": "Acordei feliz hoje!",
-"comments": [
-{
-"text": "Tenha um ótimo dia!",
-"date": "2018-03-23",
-"author": {
-"id": "1013",
-"name": "Alex Green"
-}
-}
-]
-}
-]
+      {
+                "date": "2018-03-21",
+                "title": "Partiu viagem",
+                "body": "Vou viajar para São Paulo. Abraços!",
+                "comments": [
+                          {
+                                "text": "Boa viagem mano!",
+                                "date": "2018-03-21",
+                                "author": {
+                                          "id": "1013",
+                                          "name": "Alex Green"
+                                }
+                           },
+                           {
+                                 "text": "Aproveite!",
+                                 "date": "2018-03-22",
+                                 "author": {
+                                           "id": "1027",
+                                           "name": "Bob Grey"
+                                 }
+                           }
+                 ]
+      },
+      {
+                  "date": "2018-03-23",
+                  "title": "Bom dia",
+                  "body": "Acordei feliz hoje!",
+                  "comments": [
+                            {
+                                  "text": "Tenha um ótimo dia!",
+                                  "date": "2018-03-23",
+                                  "author": {
+                                        "id": "1013",
+                                        "name": "Alex Green"
+                                  }
+                            }  
+                 ]
+       }
+   ]
 }```
