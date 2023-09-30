@@ -1,3 +1,7 @@
+### Curso: Programação Orientada a Objetos com Java
+### http://educandoweb.com.br
+### Prof. Dr. Nelio Alves
+
 # workshop-spring-mongodb
 ### Projeto MongoDB com Spring Boot
 
